@@ -1,0 +1,23 @@
+	{
+  "name": "mnzpbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MNZP Bot.js",
+  "scripts": {
+    "test": "mnzbot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anacornda/modelnz.git"
+  },
+  "author": "lily-irl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anacornda/modelnz/issues"
+  },
+  "homepage": "https://github.com/Anacornda/modelnz#readme"
+  },
+ "dependencies": {
+	"feed-watcher": "^0.2.1",
+	"discord.js": "^12.4.0"
+  }
